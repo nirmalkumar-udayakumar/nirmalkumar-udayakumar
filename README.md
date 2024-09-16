@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @nirmalkumar-udayakumar
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m learning new JS frameworks and libraries
-- 📫 Reach me at nirmalkumar.udayakumar@gmail.com
+- 📫 Reach me at nirmalkumar.udayakumar1108@gmail.com
 
 ## Languages
 <p>
